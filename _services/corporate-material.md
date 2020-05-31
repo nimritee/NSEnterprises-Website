@@ -1,11 +1,9 @@
 ---
-title: "Superannuation"
-image: "/services/default.png"
+title: 'Coporate Material'
+image: '/services/try66.png'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+We specialized in conceptualizing, designing, and printing innovative Corporate Stationery. Corporate Stationery with your name is used for handwritten correspondence having your company’s name and address appear on the envelope.
 
 ## Ne verba patulosque numen vix libet
 
